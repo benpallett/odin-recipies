@@ -1,7 +1,19 @@
-
+h1 {
+    text-align: center;
+}
 
 .header {
     font-weight: 600;
     color:aliceblue;
     background-color: black;
+}
+
+#chicken {
+    height: 400px;
+    width: auto;
+}
+
+#sausage {
+    height: 500px;
+    width:auto
 }
